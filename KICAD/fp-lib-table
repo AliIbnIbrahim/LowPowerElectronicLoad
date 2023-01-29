@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name teensy_library-master)(type KiCad)(uri C:/Users/ali/Box/Work/RunningWork/bench/ElectronicLoad/kicadLib/teensy_library-master/teensy_library-master)(options "")(descr ""))
+  (lib (name teensy)(type KiCad)(uri C:/Users/ali/Box/Work/RunningWork/bench/ElectronicLoad/kicadLib/teensy.pretty-master)(options "")(descr ""))
+)
